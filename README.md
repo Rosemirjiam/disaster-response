@@ -18,7 +18,7 @@ To create a system where affected people can request help
 
 # Tools and Technologies
 
- Python 
+  Python 
   Pandas 
   Streamlit 
   NumPy 
