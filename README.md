@@ -103,10 +103,10 @@ Severity is the most important factor in disaster response
 
 # Future Improvements
 
- Use **real-world disaster data
-  Add **machine learning models (e.g., predictive analytics)
-  Integrate **GPS tracking for location accuracy
-   Develop a **mobile app version*
+ Use real-world disaster data
+Add machine learning models (e.g., predictive analytics)
+Integrate GPS tracking for location accuracy
+Develop a mobile app version
 Connect directly with organizations like NGOs
 
 
