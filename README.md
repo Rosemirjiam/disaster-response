@@ -26,7 +26,7 @@ To create a system where affected people can request help
 
 
 
-# =Project Structure
+# Project Structure
 
 The system is divided into three main parts:
 
